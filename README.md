@@ -1,6 +1,6 @@
-<h1>Hola!, I'm Riya! <br/><a href="https://github.com/Ibarelysleep">Programmer</a>, <a href="https://https://www.linkedin.com/in/riya-bajpai-054119227//">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hola!, I'm Riya! <br/><a href="https://github.com/Ibarelysleep">Programmer</a>, <a href="https://https://www.linkedin.com/in/riya-bajpai-054119227//">Graphic designer</a>, Content Writter </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🎨 DIGITAL ART WORKS </h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
